@@ -1,0 +1,16 @@
+product,current_stock,min_stock,avg_sales
+Rice,15,30,12
+Wheat Flour,40,25,10
+Sugar,10,20,8
+Cooking Oil,22,30,15
+Dal,18,25,14
+Milk,12,20,18
+Bread,8,15,16
+Eggs,35,30,20
+Soap,50,25,5
+Shampoo,28,20,12
+Face Cream,6,15,9
+Shoes,60,40,6
+T-Shirts,25,30,18
+Makeup Kit,9,20,11
+Biscuits,14,25,22
